@@ -1,0 +1,11 @@
+/* src/assets/styles/index.css */
+
+body {
+    background-image: url('../assets/bgr1.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+  }
+  
